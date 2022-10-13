@@ -2,7 +2,8 @@
 
 [Highlights]
 
-• Arborio, Basmati, Ipsala, Jasmine and Karacadag rice varieties were used. \n
+• Arborio, Basmati, Ipsala, Jasmine and Karacadag rice varieties were used.
+
 • The dataset (1) has 75K images including 15K pieces from each rice variety. The dataset (2) has 12 morphological, 4 shape and 90 color features.
 
 • ANN, DNN and CNN models were used to classify rice varieties.
